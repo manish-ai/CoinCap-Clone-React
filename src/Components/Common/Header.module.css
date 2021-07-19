@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+.right {
+  display: flex;
+  flex-direction: row;
+  width: 40%;
+}
