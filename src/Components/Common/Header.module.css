@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .nav {
   display: flex;
   flex-direction: row;
@@ -12,3 +13,19 @@
   flex-direction: row;
   width: 40%;
 }
+=======
+.nav {
+  display: flex;
+  flex-direction: row;
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+.right {
+  display: flex;
+  flex-direction: row;
+  width: 40%;
+}
+>>>>>>> 961a50c5ec44031ee719066b3b266c8c8e79b001

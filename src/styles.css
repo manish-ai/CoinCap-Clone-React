@@ -3,9 +3,12 @@
   text-align: center;
   color: #000;
 }
+<<<<<<< HEAD
 .App::-webkit-scrollbar{
   display: none;
 }
+=======
+>>>>>>> 961a50c5ec44031ee719066b3b266c8c8e79b001
 .searchCont {
   margin-left: auto;
 }
@@ -42,9 +45,12 @@
   flex-direction: column;
   margin: 1% 0.6%;
 }
+<<<<<<< HEAD
 .movieCard:hover  .movieCard {
   transform: translateX(25%);
 }
+=======
+>>>>>>> 961a50c5ec44031ee719066b3b266c8c8e79b001
 .genreheader {
   font-size: 1.4em !important;
   font-weight: 600;
