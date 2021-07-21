@@ -1,60 +1,10 @@
-.App {
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap");
+App {
   font-family: sans-serif;
   text-align: center;
   color: #000;
+  font-family: Lato, Helvetica Neue, Arial, Helvetica, sans-serif;
 }
-<<<<<<< HEAD
-.App::-webkit-scrollbar{
-  display: none;
-}
-=======
->>>>>>> 961a50c5ec44031ee719066b3b266c8c8e79b001
-.searchCont {
-  margin-left: auto;
-}
-.navbar {
-  width: 100% !important;
-  height: 100%;
-  padding-bottom: 0.9rem;
-  border-bottom: 2px solid #000;
-}
-.form-inline {
-  margin-top: 4%;
-  margin-left: 80%;
-  margin-bottom: 0.1rem;
-}
-.form-control {
-  border-color: #000;
-}
-.navbar-brand {
-  width: 18%;
-  font-size: 3.6rem;
-  line-height: 3.8rem;
-  margin-bottom: 0.4rem;
-}
-.genreCards {
-  display: flex;
-  flex-direction: row;
-  overflow-x: auto;
-}
-.genreCards::-webkit-scrollbar{
-  display: none;
-}
-.movieCard {
-  display: flex;
-  flex-direction: column;
-  margin: 1% 0.6%;
-}
-<<<<<<< HEAD
-.movieCard:hover  .movieCard {
-  transform: translateX(25%);
-}
-=======
->>>>>>> 961a50c5ec44031ee719066b3b266c8c8e79b001
-.genreheader {
-  font-size: 1.4em !important;
-  font-weight: 600;
-  margin-left: 0.9rem;
-  margin-right: auto;
-  text-align: left;
+.App::-webkit-scrollbar {
+  /* display: none; */
 }

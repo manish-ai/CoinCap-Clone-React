@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "title": "Market Cap",
+      "value": "$ 1.32T"
+    },
+    {
+      "title": "Exchange Vol",
+      "value": "$105.24B"
+    },
+    {
+      "title": "Assets",
+      "value": "2,118"
+    },
+    {
+      "title": "Exchanges",
+      "value": "78"
+    },
+    {
+      "title": "Markets",
+      "value": "13,313"
+    },
+    {
+      "title": "BTC Dom Index",
+      "value": "45.5%"
+    }
+  ]
+}
